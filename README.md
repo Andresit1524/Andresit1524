@@ -13,6 +13,4 @@ I'm working on Stewart, a furry RPG that mixes colombian culture, medieval adven
 - Learning Godot and software engineering
 - Using Pixieditor cause Aseprite sucks for me
 - Most projects made in spanish
-
-Socials right
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) and some own work -->
