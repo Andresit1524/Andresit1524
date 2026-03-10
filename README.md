@@ -1,15 +1,15 @@
-# 🐐 About me
-Hi! I'm Andrés López, an ingeneering student that loves niche software that just works better than the mainstream slop stack. Future software and game developer.
+# 🦝 Hi!
+I'm Andrés López, an ingeneering student that loves niche software that just works better than the mainstream slop stack. Future software and game developer.
 
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-gray?style=flat-square&logo=godotengine&logoColor=%230ea5e9)
+![Python](https://img.shields.io/badge/Python-gray?style=flat-square&logo=python&logoColor=%2314b8a6)
+![C#](https://img.shields.io/badge/C%23-gray?style=flat-square&logo=dotnet&logoColor=%238b5cf6)
 
 ![](https://github-readme-stats.vercel.app/api?username=Andresit1524&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andresit1524&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-I'm working on Stewart, a furry RPG that mixes colombian culture, medieval adventure and pixel art. Check [here](https://linktr.ee/Stewart_devteam) for that.
+I'm working on Stewart, a furry RPG that mixes colombian culture, medieval adventure and pixel art. Check [here](https://linktr.ee/Stewart_devteam) for that. Also in a colombian beast card game. It's [right here](https://github.com/Andresit1524/beast_card_clash) too!
 
-- Learning Godot and software engineering
-- Using Pixieditor cause Aseprite sucks for me
-- Most projects made in spanish
+- Learning Godot and a little of software engineering
+- Passionate for Godot development
+- Most projects I made are in spanish
