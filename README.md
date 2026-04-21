@@ -1,4 +1,4 @@
-Hi! I'm Andrés López, an ingeneering student that loves niche software that just works better than the mainstream slop stack. Future software and game developer.
+Hi! I'm Andrés López, an engineering student that loves efficient, niche software that just works better than mainstream slop stacks. Also, a game developer in Godot.
 
 ![Godot](https://img.shields.io/badge/Godot-gray?style=flat-square&logo=godotengine&logoColor=%230ea5e9)
 ![Python](https://img.shields.io/badge/Python-gray?style=flat-square&logo=python&logoColor=%2314b8a6)
@@ -13,4 +13,4 @@ Currently I'm:
 
 - Learning Godot and a little about software engineering
 - Passionate for Godot development
-- Most projects I made are in spanish/engilsh
+- Most projects I made are in Spanish. Some on Engilsh
