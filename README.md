@@ -1,16 +1,20 @@
 Hi! I'm Andrés López, an engineering student that loves efficient, niche software that just works better than mainstream slop stacks. Also, a game developer in Godot.
 
-![Godot](https://img.shields.io/badge/Godot-gray?style=flat-square&logo=godotengine&logoColor=%230ea5e9)
-![Python](https://img.shields.io/badge/Python-gray?style=flat-square&logo=python&logoColor=%2314b8a6)
-![C#](https://img.shields.io/badge/C%23-gray?style=flat-square&logo=dotnet&logoColor=%238b5cf6)
+<div align="center">
+  <h2>Stack & stats</h2>
+  <p>I can work with / Learning</p>
+  <img src="https://skillicons.dev/icons?i=godot,python,,blender,cs" />
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=Andresit1524&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andresit1524&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andresit1524&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresit1524&theme=github_dark&hide_border=true&layout=compact" />
+</p>
 
-I'm working on Stewart, a furry RPG that mixes colombian culture, medieval adventure and pixel art. Check [here](https://linktr.ee/Stewart_devteam) for that. Also on Beast Card Clash, a card game based on Colombian wildlife and UNAL's culture. It's [right here](https://linktr.ee/beast_card_clash) too!
+<h2 align="center">Projects</h2>
 
-Currently I'm:
+1. [Stewart](https://linktr.ee/Stewart_devteam): A furry RPG that mixes colombian culture, medieval adventure and pixel art
+2. [Beast Card Clash](https://linktr.ee/beast_card_clash), a card game based on Colombian wildlife and UNAL's culture
+3. [Graphim](https://github.com/Andresit1524/graphim), an educational simulator for graphs and their algorithms built in Godot
 
-- Learning Godot and a little about software engineering
-- Passionate for Godot development
-- Most projects I made are in Spanish. Some on Engilsh
+And some others on my repos. Cheers! 🦝
