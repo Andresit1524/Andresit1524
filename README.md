@@ -21,7 +21,7 @@ Hi! I'm Andrés López, an engineering student that loves efficient, niche softw
 1. [Graphim](https://github.com/Andresit1524/graphim), an educational simulator for graphs and their algorithms built in Godot
 2. [FEM Simulator](https://github.com/Andresit1524/fem_simulator), an educational simulator for physics phenomena on Godot. FEMSim or other name for short, coming soon
 
-### Otros
+### Others
 1. [Vector Display 2D](https://github.com/Andresit1524/vector_display_2d), a Godot addon to show 2D vector efficiently. 3D and batch rendering coming soon also
 2. [Symbols for Godot](https://github.com/Andresit1524/vscode-symbols/releases/tag/v0.0.25.1), support for Godot in Symbols icon pack for VSCode and Antigravity
 
