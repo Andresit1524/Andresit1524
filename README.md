@@ -2,7 +2,7 @@ Hi! I'm Andrés López, an engineering student that loves efficient, niche softw
 
 <div align="center">
   <h2>Stack & stats</h2>
-  <p>I can work with / Learning-interested for learning</p>
+  <p>My stack / Learning or interested for it</p>
   <img src="https://skillicons.dev/icons?i=godot,python,vscode,,blender,cs,cpp,julia" />
 </div>
 
