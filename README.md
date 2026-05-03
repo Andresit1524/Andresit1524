@@ -7,8 +7,8 @@ Hi! I'm Andrés López, an engineering student that loves efficient, niche softw
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andresit1524&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresit1524&theme=github_dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Andresit1524&theme=github_dark&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Andresit1524&theme=github_dark&hide_border=true&layout=compact" />
 </p>
 
 <h2 align="center">Projects</h2>
