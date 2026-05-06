@@ -2,8 +2,8 @@ Hi! I'm Andrés López, an engineering student that loves efficient, niche softw
 
 <div align="center">
   <h2>Stack & stats</h2>
-  <p>My stack / Learning or interested</p>
-  <img src="https://skillicons.dev/icons?i=godot,python,vscode,,blender,cs,cpp,julia" />
+  <p>My stack-tools / Learning or interested</p>
+  <img src="https://skillicons.dev/icons?i=godot,python,vscode,,blender,cs,rust,julia" />
 </div>
 
 <p align="center">
