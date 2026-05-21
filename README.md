@@ -2,8 +2,10 @@ Hi! I'm Andrés López, an engineering student that loves efficient, niche softw
 
 <div align="center">
   <h2>Stack & stats</h2>
-  <p>My stack-tools / Learning or interested</p>
-  <img src="https://skillicons.dev/icons?i=godot,python,vscode,,blender,cs,rust,julia" />
+  <p>My stack/tools</p>
+  <img src="https://skills.syvixor.com/api/icons?i=godot,python,vscode,geminicli,typst" />
+  <p>Learning or interested</p>
+  <img src="https://skills.syvixor.com/api/icons?i=blender,csharp,cpp,rust,julia" />
 </div>
 
 <p align="center">
