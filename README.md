@@ -3,9 +3,11 @@
 <div align="center">
   <h2>Stack & stats</h2>
   <p>My stack/tools</p>
-  <img src="https://skills.syvixor.com/api/icons?i=godot,vscode,typst,python,geminicli" />
-  <p>Learning or interested</p>
-  <img src="https://skills.syvixor.com/api/icons?i=rust,julia,csharp,blender,cpp" />
+  <img src="https://skills.syvixor.com/api/icons?i=godot,vscode,typst,markdown,python,geminicli" />
+  <p>Learning</p>
+  <img src="https://skills.syvixor.com/api/icons?i=rust" />
+  <p>Interested</p>
+  <img src="https://skills.syvixor.com/api/icons?i=julia,csharp,blender,cpp" />
 </div>
 
 <p align="center">
@@ -19,10 +21,7 @@
 1. [Beast Card Clash](https://linktr.ee/beast_card_clash), a card game based on Colombian wildlife and UNAL's culture
    
    [Documentation](https://andresit1524.github.io/bcc_docs)
-2. [Stewart](https://linktr.ee/Stewart_devteam), a furry RPG that mixes colombian culture, medieval adventure and pixel art. **Development on hold**.
-   
-   [Documentation](https://stewart-devteam-team.github.io/stewart_docs)
-3. [Signal Breaker](https://github.com/GDD-JamTeam/signal_breaker), game for the Ludum Dare 59 Game Jam. Fighting with trafic signals
+2. [Signal Breaker](https://github.com/GDD-JamTeam/signal_breaker), game for the Ludum Dare 59 Game Jam. Fighting with trafic signals
 
 ### Software
 1. [Graphim](https://github.com/Andresit1524/graphim), an educational simulator for graphs and their algorithms built in Godot
