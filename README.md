@@ -3,7 +3,7 @@
 <div align="center">
   <h2>Stack & stats</h2>
   <p>My stack/tools</p>
-  <img src="https://skills.syvixor.com/api/icons?i=godot,vscode,typst,markdown,python,geminicli" />
+  <img src="https://skills.syvixor.com/api/icons?i=godot,vscode,typst,markdown,python,antigravity" />
   <p>Learning</p>
   <img src="https://skills.syvixor.com/api/icons?i=rust" />
   <p>Interested</p>
